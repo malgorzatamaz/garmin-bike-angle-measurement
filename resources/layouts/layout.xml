@@ -1,0 +1,9 @@
+<layout id="MainLayout">
+    <!-- <label x="center" y="5" text="@Strings.x" color="Graphics.COLOR_BLACK" />
+    <label x="center" y="5" text="@Strings.y" color="Graphics.COLOR_BLACK" />
+    <label x="center" y="5" text="@Strings.z" color="Graphics.COLOR_BLACK" /> -->
+    <label x="15" y="50" text="@Strings.roll" color="Graphics.COLOR_WHITE" />
+    <label x="15" y="70" id="Roll" color="Graphics.COLOR_WHITE" />
+    <label x="15" y="100" text="@Strings.activity" color="Graphics.COLOR_WHITE" />
+    <label x="15" y="120" id="Activity" color="Graphics.COLOR_WHITE" />
+</layout>
