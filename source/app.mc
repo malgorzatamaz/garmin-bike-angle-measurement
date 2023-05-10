@@ -1,7 +1,7 @@
 import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
-using Toybox.Sensor;
+import Toybox.Sensor;
 
 class App extends Application.AppBase {
   var model;
